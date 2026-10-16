@@ -1,0 +1,10 @@
+{
+  "participant_id": "bx1020401",
+  "session_id": "bx1020401_20260905_153451_0ec970",
+  "level": 2,
+  "prompt_index": 0,
+  "timestamp": "20260905_154133",
+  "prompt_text": "Read this quickly: The quick brown fox jumps over the lazy dog. You have 10 seconds!",
+  "duration": 4.559455782312925,
+  "sample_rate": 44100
+}
